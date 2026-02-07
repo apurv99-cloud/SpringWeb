@@ -7,6 +7,6 @@
     <!-- <h2>Result is: <%= session.getAttribute("result") %> </h2> -->
 
      <!-- THIS IS JSTL(JSP STANDARD LIBRARY) way -->
-     <h2>Result is: ${result} </h2>
+     <h2>Your information is: ${alien} </h2>
   </body>
 </html>
